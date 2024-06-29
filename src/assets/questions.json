@@ -1,0 +1,102 @@
+[
+    {
+        "category": "Physics",
+        "question": "What is the SI unit of force?",
+        "answers": [
+            {"text": "Newton", "isCorrect": true},
+            {"text": "Joule", "isCorrect": false},
+            {"text": "Pascal", "isCorrect": false},
+            {"text": "Watt", "isCorrect": false}
+        ]
+    },
+    {
+        "category": "Physics",
+        "question": "What is the speed of light in a vacuum?",
+        "answers": [
+            {"text": "3 x 10^8 m/s", "isCorrect": true},
+            {"text": "5 x 10^8 m/s", "isCorrect": false},
+            {"text": "1 x 10^8 m/s", "isCorrect": false},
+            {"text": "7 x 10^8 m/s", "isCorrect": false}
+        ]
+    },
+    {
+        "category": "Physics",
+        "question": "Which law states that the current through a conductor between two points is directly proportional to the voltage across the two points?",
+        "answers": [
+            {"text": "Ohm's Law", "isCorrect": true},
+            {"text": "Newton's First Law", "isCorrect": false},
+            {"text": "Faraday's Law", "isCorrect": false},
+            {"text": "Coulomb's Law", "isCorrect": false}
+        ]
+    },
+    {
+        "category": "Maths",
+        "question": "What is the derivative of sin(x)?",
+        "answers": [
+            {"text": "cos(x)", "isCorrect": true},
+            {"text": "-sin(x)", "isCorrect": false},
+            {"text": "-cos(x)", "isCorrect": false},
+            {"text": "tan(x)", "isCorrect": false}
+        ]
+    },
+    {
+        "category": "Maths",
+        "question": "What is the integral of 1/x dx?",
+        "answers": [
+            {"text": "ln|x| + C", "isCorrect": true},
+            {"text": "x^2/2 + C", "isCorrect": false},
+            {"text": "e^x + C", "isCorrect": false},
+            {"text": "1/(x^2) + C", "isCorrect": false}
+        ]
+    },
+    {
+        "category": "Maths",
+        "question": "If f(x) = x^2, what is f'(x)?",
+        "answers": [
+            {"text": "2x", "isCorrect": true},
+            {"text": "x", "isCorrect": false},
+            {"text": "x^2", "isCorrect": false},
+            {"text": "4x", "isCorrect": false}
+        ]
+    },
+    {
+        "category": "Chemistry",
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+            {"text": "Au", "isCorrect": true},
+            {"text": "Ag", "isCorrect": false},
+            {"text": "Pb", "isCorrect": false},
+            {"text": "Fe", "isCorrect": false}
+        ]
+    },
+    {
+        "category": "Chemistry",
+        "question": "What is the pH of a neutral solution at 25°C?",
+        "answers": [
+            {"text": "7", "isCorrect": true},
+            {"text": "0", "isCorrect": false},
+            {"text": "14", "isCorrect": false},
+            {"text": "3", "isCorrect": false}
+        ]
+    },
+    {
+        "category": "Chemistry",
+        "question": "Which element is known as the 'King of Chemicals'?",
+        "answers": [
+            {"text": "Sulfuric acid", "isCorrect": true},
+            {"text": "Hydrochloric acid", "isCorrect": false},
+            {"text": "Nitric acid", "isCorrect": false},
+            {"text": "Acetic acid", "isCorrect": false}
+        ]
+    },
+    {
+        "category": "Chemistry",
+        "question": "What is the molecular formula of methane?",
+        "answers": [
+            {"text": "CH4", "isCorrect": true},
+            {"text": "C2H6", "isCorrect": false},
+            {"text": "C3H8", "isCorrect": false},
+            {"text": "C4H10", "isCorrect": false}
+        ]
+    }
+]
